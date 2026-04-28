@@ -1,0 +1,26 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/09ag_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_buildManifest.js",
+    "static/development/_ssgManifest.js",
+    "static/development/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_08e4dxq._.js",
+    "static/chunks/09ag_next_dist_compiled_next-devtools_index_07omgn1.js",
+    "static/chunks/09ag_next_dist_compiled_react-dom_12tjb-x._.js",
+    "static/chunks/09ag_next_dist_compiled_react-server-dom-turbopack_02x-6.7._.js",
+    "static/chunks/09ag_next_dist_compiled_06i~4~w._.js",
+    "static/chunks/09ag_next_dist_client_030djgn._.js",
+    "static/chunks/09ag_next_dist_111q0r3._.js",
+    "static/chunks/09ag_@swc_helpers_cjs_03799ry._.js",
+    "static/chunks/google_solution_PlayShield_dashboard_0rqeker._.js",
+    "static/chunks/turbopack-google_solution_PlayShield_dashboard_12buvpa._.js"
+  ]
+};
